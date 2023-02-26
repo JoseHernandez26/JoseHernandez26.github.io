@@ -377,7 +377,7 @@ img{
     width: 600px;
     align-content: center;
     text-align: center;
-    transform: translateX(-4rem);
+    /*transform: translateX(-4rem);*/
 }
 
 .home__welcome{
@@ -455,6 +455,15 @@ img{
     animation: scrollDown 3s infinite;
 
 }
+
+.home__data{
+transform: translateX(-0.10rem)
+
+
+}
+
+
+
 
 .home__scroll-button{
     color: #005792;
