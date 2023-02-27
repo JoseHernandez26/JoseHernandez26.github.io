@@ -1254,7 +1254,7 @@ transform: translateX(-0.10rem)
   position: fixed;
   right: 1rem;
   bottom: -20%;
-  background-color: var(--first-color);
+  background-color: #2C74B3;
   opacity: 0.8;
   padding: 0 0.3rem;
   border-radius: 0.4rem;
