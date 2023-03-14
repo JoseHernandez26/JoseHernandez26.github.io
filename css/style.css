@@ -382,7 +382,7 @@ img{
 
 .home__welcome{
     text-align: center;
-    font-size: var(--small-font-size);
+    font-size: var(--big-font-size-font-size);
     color: var(--text-color);
     padding: 1.0rem;
 }
@@ -417,7 +417,7 @@ img{
 
 .home__subtitle{
     text-align: center;
-    font-size: var(--h3-font-size);
+    font-size: var(--big-font-size);
     color: var(--text-color);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-1);
@@ -459,7 +459,7 @@ img{
 .home__data{
 
   grid-column: initial;
-transform: translateX(-4rem)
+transform: translateX(25rem)
 
 
 }
