@@ -384,7 +384,7 @@ img{
     text-align: center;
     font-size: var(--small-font-size);
     color: var(--text-color);
-    padding: 1.5rem;
+    padding: 1.0rem;
 }
 
 .home__title{
@@ -457,7 +457,9 @@ img{
 }
 
 .home__data{
-transform: translateX(-0.10rem)
+
+  grid-column: initial;
+transform: translateX(-6.3rem)
 
 
 }
