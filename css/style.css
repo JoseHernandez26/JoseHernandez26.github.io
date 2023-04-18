@@ -1347,7 +1347,7 @@ img{
     .home__data{
       grid-column: initial;
       transform: translateX(-3rem);
-      margin-left: 10px;
+      margin-left: 20px;
     }
 
     .about__container,
