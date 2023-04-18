@@ -377,7 +377,7 @@ img{
     width: 600px;
     align-content: center;
     text-align: center;
-    transform: translateX(-6rem);
+    transform: translateX(-5.5rem);
 }
 
 .home__welcome{
