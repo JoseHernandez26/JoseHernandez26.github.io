@@ -808,6 +808,7 @@ img{
 	  height: auto;
 	  margin: 180px auto;
 	}
+
   }
   @media screen and (max-height: 500px) and (min-width: 992px) {
 	.blog-slider {
@@ -1334,7 +1335,20 @@ img{
       border-radius: 0.2rem;
     }
   }
- 
+  @media screen and (min-width: 768px) and (max-width: 800px) {
+    .blog-slider {
+      min-height: 500px;
+      height: auto;
+      margin: 180px auto;
+    }
+
+    .home__data{
+      grid-column: initial;
+      transform: translateX(-3rem);
+      margin-left: 60px;
+    }
+
+  }
   /* Medium size Screen devices */
 
   @media screen and (max-width: 568px){
