@@ -1335,7 +1335,7 @@ img{
       border-radius: 0.2rem;
     }
   }
-  @media screen and (min-width: 768px) and (max-width: 800px) {
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
     .blog-slider {
       min-height: 500px;
       height: auto;
